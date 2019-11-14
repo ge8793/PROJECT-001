@@ -9,8 +9,8 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rproj
-*.Rmd
+HIF1BCAC.Rproj
+README.Rmd
 *.bgen
 *.gen
 output
